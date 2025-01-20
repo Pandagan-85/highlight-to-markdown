@@ -1,0 +1,3 @@
+# Escludi la cartella PyCharm e macOS metadata
+.idea/
+.DS_Store
