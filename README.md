@@ -2,7 +2,7 @@
 
 ## Descrizione dello Script
 Questo script Python converte file di testo contenenti annotazioni di libri in file Markdown strutturati.
-Ad esempio puoi esportare tutte le annotazioni e caricare il file su Obsidian!
+Nello specifico puoi esportare tutte le annotazioni da un libro letto in **NeoReader su un e-ink Onyx Boox** da e caricare il markdown su **Obsidian**!
 
 ### Funzionalità Principali
 1. **Parsing dei Metadati:**
